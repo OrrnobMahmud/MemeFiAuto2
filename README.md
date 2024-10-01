@@ -4,6 +4,9 @@
 ![img1](./.github/image/image.png)
 
 # Use Python 3.10 and PROXY (1 acc - 1 proxy)
+![Residential Proxies-5-728x90](https://github.com/user-attachments/assets/88e0a777-dc93-4e05-8969-b30562cee99d)
+
+Best Cheapest Proxy : [$1/GB](https://dataimpulse.com/?aff=56104)
 
 
 ## Functionality
