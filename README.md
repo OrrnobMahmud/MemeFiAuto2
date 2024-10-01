@@ -1,6 +1,3 @@
-# HiddenCode - [https://t.me/hidden_coding](https://t.me/+oBSaBMwFrx8zN2Vk)
-
-
 ![img1](./.github/image/image.png)
 
 # Use Python 3.10 and PROXY (1 acc - 1 proxy)
